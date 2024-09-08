@@ -22,7 +22,7 @@ results = model('img.jpg', save=True)
 ![img](https://github.com/kilicaslanintelligence/Object-Detection-and-Segmentation-with-YOLOv8/blob/main/Image.webp)
 
 **Object Detection Image**
-![Object-Detection-Image](https://github.com/kilicaslanintelligence/Object-Segmentation-with-YOLOv8/blob/main/Object-Detection-with-YOLOv8/Object-Detection-Image.webp)
+![Object-Detection-Image](https://github.com/kilicaslanintelligence/Object-Detection-and-Segmentation-with-YOLOv8/blob/main/Object-Detection-with-YOLOv8/Object-Detection-Image.webp)
 ___
 ### Object Segmentation in Photo
 #### CLI (Command Line Interface)
